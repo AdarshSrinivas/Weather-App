@@ -1,16 +1,10 @@
 # weather_app
 
-A new Flutter project.
+# Splash Screen
+![Splash Screen](https://user-images.githubusercontent.com/54678239/138886222-5749fdd4-002e-42c7-9cf8-d267dcb82617.png)
 
-## Getting Started
+# Home Screen
+![Home Screen](https://user-images.githubusercontent.com/54678239/138886228-f2e8edbb-b356-4458-8d4a-4b83d9f17dd9.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Search Screen
+![Search Screen](https://user-images.githubusercontent.com/54678239/138886232-99fd3855-0a2e-405c-93eb-5d874afc1be9.png)
